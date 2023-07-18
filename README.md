@@ -1,5 +1,5 @@
 DM_Assignment
 B182290
-laya molige
+Laya Molige
 C1
 roll no. 42
